@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_and_Event_Sourcing", "CQRS_and_Event_Sourcing\CQRS_and_Event_Sourcing.csproj", "{6C1EB3FF-5965-46FC-B37F-E25AEE3B341C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1EB3FF-5965-46FC-B37F-E25AEE3B341C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1EB3FF-5965-46FC-B37F-E25AEE3B341C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1EB3FF-5965-46FC-B37F-E25AEE3B341C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1EB3FF-5965-46FC-B37F-E25AEE3B341C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DBC621C-914D-45CC-87C8-C5ABF1DC0D34}
+	EndGlobalSection
+EndGlobal
